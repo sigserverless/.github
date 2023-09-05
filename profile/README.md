@@ -12,7 +12,7 @@
 -->
 
 # Hi there 👋
-We're from ICT, CAS. 
+We're from Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS). 
 
 Our interest foucses on improving serverless to support future ubiquitous computing, including cloud, edge and IOTs.
 
