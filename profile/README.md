@@ -17,9 +17,3 @@ We're from ICT, CAS. Our interest foucses on improving serverless to build a ubi
 Here, we'd like to collect some interesting projects, publications related with serverless, and even a wide range of cloud systems.
 
 Based on these, hope a open, perspective and practical building experiences can be delivered.
-
-## Projects
-### Chitu, maintained by us
-
-
-## Publications
