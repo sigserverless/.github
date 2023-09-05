@@ -12,7 +12,7 @@
 -->
 
 # Hi there 👋
-We're from ICT, CAS. Our interest foucses on improving serverless to support future ubiquitous computing , including cloud, edge and IOTs.
+We're from ICT, CAS. Our interest foucses on improving serverless to support future ubiquitous computing, including cloud, edge and IOTs.
 
 Here, we'd like to collect some interesting projects, publications related with serverless, and even a wide range of cloud systems.
 
